@@ -9,55 +9,41 @@
   </a>
 </p>
 
----
-
-📖 Read this in [Português 🇧🇷](./README.pt-BR.md)
-
----
-
 ### 👨‍💻 About Me
 
-I'm **Érick**, a back-end developer with solid experience in **C# and .NET**, including building robust **REST APIs**, working with **RabbitMQ** for messaging, and applying **DDD** and **Clean Architecture** principles.  
-I also have DevOps knowledge, using **Docker**, **Prometheus**, and **Grafana** to monitor applications.  
-On the front-end, I’ve worked with **React**, mostly for internal tools and administrative panels.
+I'm **Érick**, a Software Engineer focused on **DevTools and Platform Engineering**, building internal tools and systems that improve **developer productivity** and streamline software delivery at scale.
 
-I aim to write clean, testable, and maintainable code while following good software engineering practices.
+I specialize in designing and maintaining **build systems**, **CI/CD pipelines**, and **developer platforms** to reduce friction in workflows, improve build performance, and enable reliable, reproducible environments.  
+
+I am passionate about **Developer Experience (DX)**, automation, and creating tools that help engineers deliver faster with confidence.
 
 ---
 
 ### 🛠️ Technologies I use
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Grails](https://img.shields.io/badge/Grails-4298B8?style=flat&logo=grafana&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=flat&logo=githubactions&logoColor=white)
+![Build Systems](https://img.shields.io/badge/Build_Systems-5C4EE5?style=flat&logo=azuredevops&logoColor=white)
 
 ---
 
 ### 📘 Notable Experiences
 
-- ✅ Developed high-performance **REST APIs** with C# and Dapper.
-- ✅ Integrated **RabbitMQ** for asynchronous messaging.
-- ✅ Created **monitoring dashboards** with Prometheus and Grafana.
-- ✅ Participated in projects using **layered architecture and DDD**.
-- ✅ Used **Docker** for packaging and deployment.
-- ✅ Worked with **React** and i18n (internationalization).
+- ✅ Designed and maintained **CI/CD pipelines** to accelerate software delivery and reduce failures.  
+- ✅ Built and optimized **internal build systems**, improving performance and reproducibility.  
+- ✅ Developed **internal DevTools and developer platforms** to enhance team productivity.  
+- ✅ Created **monitoring dashboards** and observability tools with Prometheus and Grafana.   
+- ✅ Worked with **Docker** and containerization to standardize environments.  
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NunesErick&show_icons=true&theme=dracula" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunesErick&layout=compact&theme=dracula" />
-</p>
-
 ### 🤝 Let's connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/érick-de-souza-nunes-b16b68138/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/érick-de-souza-nunes-b16b68138/)  
 - 📧 [Email](mailto:erick.szns@hotmail.com)
